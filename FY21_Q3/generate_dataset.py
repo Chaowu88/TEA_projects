@@ -15,15 +15,9 @@ Python C:\Users\cwu\Desktop\Software\Aspen_automation\Scripts\case\FY21_Q3\gener
 
 
 DATASET_FILE = r'C:\Users\cwu\Desktop\Software\Aspen_automation\Results\FY2021_Q3\new_model\training_data.xlsx'
-#r'C:\Users\cwu\Desktop\Software\Aspen_automation\Results\FY2021_Q3\new_model\test\training_data.xlsx'
-#r'C:\Users\cwu\Desktop\Software\Aspen_automation\Results\FY2021_Q3\new_model\training_data.xlsx'
 ASPEN_FILE = r'C:\Users\cwu\Desktop\Software\Aspen_automation\Data\FY2021_Q3\Feedstock_Cost\BC_FY30MYPP_BDO_Combined_modified_lignin_0.51_scale_final.bkp'
-#r'C:\Users\cwu\Desktop\Software\Aspen_automation\Results\FY2021_Q3\new_model\test\PETase_Depoly_Base_v17.bkp'
-#r'C:\Users\cwu\Desktop\Software\Aspen_automation\Data\FY2021_Q3\Feedstock_Cost\BC_FY30MYPP_BDO_Combined_modified_lignin_0.51_scale_final.bkp'
 CALCULATOR_FILE = r'C:\Users\cwu\Desktop\Software\Aspen_automation\Data\FY2021_Q3\Feedstock_Cost\BC_BDO_FY30Projection.xlsm'
-#r'C:\Users\cwu\Desktop\Software\Aspen_automation\Results\FY2021_Q3\new_model\test\PETase_Depoly_Base_v17_corr.xlsm'
-#r'C:\Users\cwu\Desktop\Software\Aspen_automation\Data\FY2021_Q3\Feedstock_Cost\BC_BDO_FY30Projection.xlsm'
-NRUNS = 3
+NRUNS = 40
 SCRIPTS_DIR = r'C:\Users\cwu\Desktop\Software\Aspen_automation\Scripts'
 
 
