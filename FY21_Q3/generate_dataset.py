@@ -27,7 +27,6 @@ import os
 from collections import namedtuple
 import numpy as np
 import pandas as pd
-from openpyxl import load_workbook
 from classes import Aspen, Excel
 
 
