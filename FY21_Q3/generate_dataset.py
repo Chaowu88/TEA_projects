@@ -18,7 +18,7 @@ DATASET_FILE = r'C:\Users\cwu\Desktop\Software\Aspen_automation\Results\FY2021_Q
 ASPEN_FILE = r'C:\Users\cwu\Desktop\Software\Aspen_automation\Data\FY2021_Q3\Feedstock_Cost\BC_FY30MYPP_BDO_Combined_modified_lignin_0.51_scale_final.bkp'
 CALCULATOR_FILE = r'C:\Users\cwu\Desktop\Software\Aspen_automation\Data\FY2021_Q3\Feedstock_Cost\BC_BDO_FY30Projection.xlsm'
 NRUNS = 40
-SCRIPTS_DIR = r'C:\Users\cwu\Desktop\Software\Aspen_automation\Scripts'
+SCRIPTS_DIR = r'C:\Users\cwu\Desktop\Software\AutoAspen'
 
 
 import sys
