@@ -10,7 +10,7 @@ __version__ = '1.0'
 r'''
 This script generates training dataset using Aspen model and .xslm calculator.
 
-Python C:\Users\cwu\Desktop\Software\Aspen_automation\Scripts\case\FY21_Q3\generate_dataset.py
+python C:\Users\cwu\Desktop\Software\Aspen_automation\Scripts\case\FY21_Q3\generate_dataset.py
 '''
 
 
