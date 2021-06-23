@@ -133,6 +133,7 @@ class BaseHandler:
 			
 			ax2 = ax1.twinx()
 			sns.distplot(values, rug = True, kde = True, hist = False, ax = ax2)   # if plot kde, y axis can not be Count
+			ax2.set_ylabel('')
 			ax2.set_yticks([])
 			ax2.spines['left'].set_visible(False)
 			ax2.spines['right'].set_visible(False)
